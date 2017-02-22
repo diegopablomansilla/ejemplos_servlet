@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;org.yacare.bo.FamilyGroupBo&apos; to &apos;StudentBo&apos;&#x0A;- Original project: &apos;swagger-spring&apos;&#x0A;- Original element: &apos;org.yacare.bo.FamilyGroupBo&apos;&#x0A;- Renamed element: &apos;org.yacare.bo.StudentBo&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FamilyGroupBo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;org.yacare.bo{FamilyGroupBo.java[FamilyGroupBo" matchStrategy="1" name="StudentBo" qualified="false" references="true" similarDeclarations="false" stamp="1472419335703" textual="false" version="1.0"/>
+</session>

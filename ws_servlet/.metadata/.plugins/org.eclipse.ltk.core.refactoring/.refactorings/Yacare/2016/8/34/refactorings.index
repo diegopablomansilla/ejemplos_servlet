@@ -1,0 +1,64 @@
+1471356583598	Move compilation unit
+1471356974023	Rename type 'PersonBirth'
+1471357516274	Move compilation units
+1471357607652	Rename package 'org.yacare.model.address'
+1471357740353	Rename type 'GeoPosition'
+1471357775576	Rename type 'CoordinatesGeoLocation'
+1471358331651	Rename type 'AdminAreaLevel'
+1471358349497	Copy compilation unit
+1471358689671	Rename package 'org.yacare.model.geolocation'
+1471358723796	Move compilation unit
+1471359121707	Copy compilation unit
+1471359919441	Move compilation units
+1471359951304	Move compilation units
+1471360101697	Move compilation unit
+1471360110714	Copy compilation unit
+1471360611663	Copy compilation unit
+1471360664124	Rename package 'org.yacare.model.healt'
+1471361404942	Rename type 'CareerState'
+1471362532400	Copy compilation unit
+1471367109409	Move compilation units
+1471367959954	Move compilation unit
+1471368234117	Copy compilation unit
+1471368260525	Rename type 'Enrollment'
+1471368266904	Rename type 'EnrollmentState'
+1471368694619	Rename type 'Inscription'
+1471369050021	Rename type 'BasicDomain'
+1471371287405	Rename type 'Turn'
+1471371940893	Move compilation units
+1471372265215	Rename type 'Institution'
+1471372409327	Move compilation unit
+1471372566219	Delete element
+1471436083571	Rename type 'AcademicFile'
+1471436094195	Rename type 'Pojo'
+1471436192918	Rename type 'Address'
+1471436258523	Move compilation unit
+1471436358807	Rename type 'AcademicFileState'
+1471436743040	Rename package 'org.yacare.model.academic.file'
+1471436906133	Rename package 'org.yacare.model.academic.student'
+1471436928131	Move compilation units
+1471436999906	Move compilation unit
+1471437024185	Rename package 'org.yacare.model.academic.family_group_students'
+1471437050540	Move compilation units
+1471437057920	Move compilation unit
+1471437067946	Delete element
+1471437320960	Rename type 'Person'
+1471437664790	Delete element
+1471437677844	Move compilation unit
+1471437804729	Move compilation units
+1471437870241	Delete element
+1471439082542	Rename type 'Pojo'
+1471439092941	Rename type 'PojoDomain'
+1471440093687	Move compilation unit
+1471441201550	Move compilation unit
+1471443401997	Rename package 'utiljdbc'
+1471443412950	Rename package 'utiljdbcdao.ex'
+1471443545827	Rename resource 'lino.properties'
+1471446708100	Delete element
+1471447080141	Delete element
+1471447091940	Delete element
+1471447098712	Delete element
+1471447106523	Delete element
+1471447125956	Delete element
+1471473503939	Rename local variable 'gender'
+1471475702049	Copy compilation unit
